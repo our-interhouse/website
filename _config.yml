@@ -1,2 +1,12 @@
-gems:
+plugins:
   - jekyll-redirect-from
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "main"
+
+sass:
+  style: compressed

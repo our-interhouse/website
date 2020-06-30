@@ -1,19 +1,22 @@
-items:
-
 - title: About
-  url: about.html
+  url: /about
+  show: true
 
 - title: Story
-  url: story.html
+  url: /story
 
 - title: Projects
-  url: collaborators.html
+  url: /projects
 
 - title: Collaborators
-  url: collaborators.html
+  url: /collaborators
 
 - title: Guests
-  url: guests.html
+  url: /guests
+
+- title: Apply
+  url: /you
 
 - title: Contact
-  url: guests.html
+  url: /contact
+  show: true

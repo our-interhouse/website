@@ -1,6 +1,4 @@
 ---
-layout: main
 title: About
-permalink: /test
+redirect_to: /about
 ---
-This is the about page
