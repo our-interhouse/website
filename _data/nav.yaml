@@ -1,0 +1,19 @@
+items:
+
+- title: About
+  url: about.html
+
+- title: Story
+  url: story.html
+
+- title: Projects
+  url: collaborators.html
+
+- title: Collaborators
+  url: collaborators.html
+
+- title: Guests
+  url: guests.html
+
+- title: Contact
+  url: guests.html
